@@ -1,0 +1,38 @@
+1 ) What is DevOps?
+DevOps is a software development methodology that emphasizes collaboration, communication, and integration between software developers and IT operations professionals. It involves automating and streamlining the entire software development lifecycle, from planning and coding to testing, deployment, and maintenance.
+
+DevOps teams typically use a variety of tools and practices to achieve this, including continuous integration and continuous delivery (CI/CD) pipelines, agile development methodologies, and infrastructure-as-code (IAC) techniques. By working together and using these tools and practices, DevOps teams can build, test, and deploy software faster and more reliably than traditional software development methods.
+
+2 ) What is DevOps culture?
+DevOps culture emphasizes collaboration, communication, and teamwork between software developers and IT operations professionals, with a focus on breaking down silos and fostering a culture of continuous improvement and learning. It values automation, experimentation, and transparency.
+DevOps culture is about working together to deliver high-quality software faster and more efficiently, while also continuously learning and improving along the way.
+
+3 ) What are software development lifecycle models?
+There are several different software development lifecycle models, each with its own unique set of stages or phases. Some of the most common software development lifecycle models include:
+
+i - Waterfall model: A linear sequential model that progresses through a series of distinct phases in a sequential manner, with each phase starting only after the previous phase has been completed.
+ii - Agile model: An iterative and incremental model that emphasizes collaboration, flexibility, and adaptability, with software being developed in short cycles or iterations.
+iii - Spiral model: A risk-driven model that emphasizes the identification and mitigation of project risks throughout the development lifecycle.
+iv - V-model: A variation of the waterfall model that emphasizes testing and verification at each stage of the development process.
+v- DevOps model: A model that emphasizes the integration and collaboration of development and operations teams to deliver software quickly and reliably, with a focus on automation, continuous integration, and continuous delivery.
+
+4 ) What is difference between Waterfall and Agile model?
+In the Waterfall model, the entire project is divided into separate phases, with each phase being completed before the next one can begin. In contrast, the Agile model divides the project into small, manageable chunks called sprints, and each sprint is a miniature version of the entire project, with planning, design, development, testing, and delivery all happening within that sprint.
+Waterfall is a more rigid and structured approach that works well for projects where requirements are well-defined and unlikely to change. On the other hand, Agile is a more flexible approach that can better accommodate changing requirements and priorities.
+
+5 ) Brief history of DevOps:
+DevOps is a software development methodology that combines software development and IT operations to improve the speed and efficiency of software delivery. Here's a brief history of DevOps:
+
+In 2008, the term "DevOps" was coined by Patrick Debois, a Belgian software developer, to describe the need for better communication and collaboration between development and operations teams.
+
+In 2009, John Allspaw and Paul Hammond presented "10 Deploys per Day: Dev and Ops Cooperation at Flickr" at the Velocity conference, which highlighted how DevOps practices could improve software delivery.
+
+In 2010, the first DevOps Days conference was held in Ghent, Belgium, which brought together practitioners and thought leaders in the field to discuss best practices and share knowledge.
+
+In 2011, Gene Kim, Kevin Behr, and George Spafford published "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win," which popularized DevOps and provided a blueprint for how organizations could implement DevOps practices.
+
+In 2014, the first State of DevOps report was published, which provided data on the benefits of DevOps practices and helped organizations understand how to adopt DevOps in their own environments.
+
+Today, DevOps has become a widely adopted methodology, with organizations of all sizes and industries embracing the practices to improve their software delivery and operations.
+
+6 ) 
