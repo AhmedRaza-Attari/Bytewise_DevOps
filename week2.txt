@@ -1,0 +1,79 @@
+1 - ExtremeP Programming:
+
+Extreme Programming (XP) is an agile software development methodology that emphasizes the importance of teamwork, communication, simplicity, and feedback. It is designed to be flexible, lightweight, and adaptive to changing customer requirements. Some of the key practices of XP include:
+i- Continuous planning and feedback: The development team and the customer work together to plan and prioritize work, and feedback is continuously provided to ensure that the project is on track.
+ii- Test-driven development: Code is written to pass tests that are written first, ensuring that the code is always working and meets the requirements.
+iii- Pair programming: Two programmers work together on the same code, which helps to catch mistakes and share knowledge.
+iv- Continuous integration: Changes to the code are integrated into the main codebase on a regular basis, ensuring that any issues are caught early.
+v- On-site customer: A representative from the customer's organization is always available to answer questions and provide feedback.
+Overall, XP emphasizes delivering high-quality software quickly and responding to changing requirements throughout the development process.
+
+2 - Pair Programming:
+
+Pair programming is a practice in which two programmers work together on the same code, with one acting as the "driver" who writes the code, and the other as the "navigator" who reviews the code and provides feedback. Some of the benefits of pair programming include:
+i- Improved code quality: Pair programming allows for real-time code review, catching mistakes early and improving the overall quality of the code.
+ii- Knowledge sharing: Pair programming allows for knowledge sharing between the two programmers, which can help spread expertise and prevent knowledge silos.
+iii- Better communication: Pair programming encourages communication and collaboration between team members, which can help prevent misunderstandings and improve overall team cohesion.
+iv- Reduced errors and debugging time: With two people working on the same code, errors can be caught and fixed more quickly, reducing debugging time.
+v- Increased productivity: Although it may seem counterintuitive, studies have shown that pair programming can actually increase productivity in the long run, as it reduces the amount of time spent on debugging and rework.
+
+3 - Git Repository Guidelines in Agile Development:
+
+Git is a widely used version control system in Agile software development. Here are some guidelines for using Git in Agile development:
+
+i- Use feature branches: Use feature branches to isolate new features or changes, and merge them back into the main branch (usually called "master" or "main") when they are complete and tested.
+ii- Commit frequently: Commit your changes frequently and with meaningful commit messages, so that others can understand what changes were made and why.
+iii- Use pull requests: Use pull requests to review code changes, and have at least one other person review and approve the changes before merging into the main branch.
+iv- Use tags and releases: Use tags and releases to mark significant milestones or versions of the software, and make sure that they are properly documented.
+v- Keep the repository clean: Remove old branches that are no longer needed, and avoid committing large binary files or generated files that can be recreated from source code.
+vi- Collaborate effectively: Use Git's collaboration features, such as pull requests, code reviews, and merge conflicts, to facilitate effective teamwork and communication among developers.
+
+Overall, using Git effectively in Agile development can help improve collaboration, reduce errors, and ensure that the software is properly versioned and documented.
+
+4 - Benefits of working in Batches in Agile:
+
+Working in batches, or batch processing, is a technique used in Agile development that involves breaking down work into small, manageable batches and completing them in a specific order. Here are some benefits of working in batches in Agile:
+
+i- Prioritization: Working in batches enables teams to prioritize tasks based on importance and urgency, allowing them to tackle the most critical work first.
+ii- Feedback: Completing work in small batches allows teams to receive feedback from stakeholders and customers more quickly, which can improve the quality of the software.
+iii- Efficiency: By focusing on small, manageable batches of work, teams can reduce waste and increase efficiency, leading to faster delivery times and improved productivity.
+iv- Risk management: Working in batches reduces the risk of delays or unexpected problems by allowing teams to identify and address issues early in the development process.
+v- Flexibility: Batch processing allows teams to adjust priorities and adapt to changing requirements more easily, which is particularly important in Agile development where requirements can change frequently.
+
+Overall, working in batches in Agile development can help teams prioritize work, receive feedback quickly, improve efficiency, reduce risks, and increase flexibility, resulting in higher quality software and better outcomes for stakeholders.
+
+5 - What Exactly is MVP? (Minimum Viable Product):
+
+MVP stands for Minimum Viable Product, and it is a development technique where a product is developed with the minimum set of features necessary to satisfy early customers and validate the product idea. In short, MVP is a basic version of a product that allows for early testing and validation with minimal resources.
+
+6 - Get a Good Basic Understanding of Test-Driven Development (TDD) and Behavior-Driven Development (BDD); and difference between them:
+
+Test-Driven Development (TDD) and Behavior-Driven Development (BDD) are two software development methodologies that rely heavily on automated testing to ensure code quality and reduce defects.
+
+TDD is a development technique in which developers write automated tests before writing the actual code. The process begins with writing a test case that defines a specific feature or functionality. The test initially fails because the feature is not implemented yet. The developer then writes the code to make the test pass. This cycle is repeated until all features are implemented and the tests pass. The main goal of TDD is to improve code quality and reduce defects by constantly testing and verifying the code.
+
+BDD is an extension of TDD that focuses on the behavior of the system and the business value it provides. BDD involves creating tests that are written in a natural language format that can be understood by both developers and stakeholders. BDD tests are designed to express the desired behavior of the system from the perspective of the user, making them more accessible to non-technical stakeholders. BDD tests are used to validate that the system meets the business requirements and delivers value to the end-users.
+
+The main difference between TDD and BDD is their focus. TDD focuses on testing the correctness of the code, whereas BDD focuses on testing the behavior of the system from the user's perspective. Additionally, BDD uses a more natural language format that is more accessible to non-technical stakeholders, making it easier to collaborate between development and other teams.
+
+In summary, TDD and BDD are two software development methodologies that rely heavily on automated testing to ensure code quality and reduce defects. While TDD focuses on testing the correctness of the code, BDD focuses on testing the behavior of the system from the user's perspective, and uses a more natural language format that is more accessible to non-technical stakeholders.
+
+7 - Why is TDD Important for DevOps?
+
+Test-Driven Development (TDD) is an important practice in DevOps as it helps to ensure that the code is high quality and meets the requirements of the stakeholders. TDD helps to identify issues and defects in the code early in the development cycle, which can significantly reduce the cost and time required to fix them.
+
+In DevOps, where software is developed and deployed rapidly, TDD plays a crucial role in ensuring that the software is delivered with high quality and reliability. TDD encourages developers to write tests for each piece of code they write, which helps to catch issues before they become bigger problems. TDD also makes it easier to ensure that new code does not break existing code, which is important in a continuous integration and continuous deployment (CI/CD) pipeline.
+
+By integrating TDD into the DevOps process, teams can build a more resilient and reliable software system. TDD enables developers to deliver code faster, with fewer defects, and with better maintainability, which ultimately leads to a more efficient and effective DevOps workflow.
+
+8 - What are Cloud Native Microservices?
+
+Cloud Native Microservices are small, independent components of an application designed to perform specific functions, optimized for deployment in cloud-based environments, and built using containerization technologies such as Docker or Kubernetes.
+
+9 - Designing for Failure in DevOps.
+
+Designing for Failure in DevOps involves proactively anticipating potential failures in a system and developing strategies to mitigate their impact. This can include techniques such as redundancy, fault-tolerance, and automated recovery, which help to ensure that the system remains available and resilient even in the event of failures.
+
+10 -  What is Taylorism?
+
+Taylorism, also known as scientific management, is a management theory developed by Frederick Winslow Taylor in the late 19th century. It emphasizes the application of scientific principles to the management of work and workers, with the goal of improving efficiency and productivity in industrial settings. Taylorism involves breaking down work into simple, repetitive tasks that can be standardized and optimized for maximum efficiency, and closely monitoring worker performance to ensure that these tasks are performed correctly and efficiently. The approach has been widely criticized for its dehumanizing effects on workers and its tendency to prioritize efficiency over worker well-being.
